@@ -1,6 +1,6 @@
 <div align="center">
 
-![Daniel Munoz | Mod it. Fix it. Automate it.](https://raw.githubusercontent.com/damunozx123-debug/ventoy-fetch/master/assets/portfolio-banner.svg)
+![DANIEL MUNOZ | Ice in Silicon banner](assets/ice-in-silicon/readme-banner.svg)
 
 # 👋 G'day, I'm Daniel.
 
