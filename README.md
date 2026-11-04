@@ -14,7 +14,7 @@
 [![Book a Fix](https://img.shields.io/badge/%F0%9F%94%A7_GET_TECH_HELP-Troubleshooting-dc3545?style=for-the-badge)](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/WORK_WITH_ME.md)
 [![Try My Tools](https://img.shields.io/badge/%F0%9F%9A%80_TRY_MY_TOOLS-Projects_%26_Source-8b5cf6?style=for-the-badge)](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/PROJECTS.md)
 
-[**Services & rates**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/WORK_WITH_ME.md) · [**Projects & evidence**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/PROJECTS.md) · [**Email me**](mailto:damunozx123@gmail.com?subject=GitHub%20opportunity)
+[**Verified work samples (start here)**](WORK_EVIDENCE.md) · [**Services & rates**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/WORK_WITH_ME.md) · [**Project shelf**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/PROJECTS.md) · [**Email me**](mailto:damunozx123@gmail.com?subject=GitHub%20opportunity)
 
 </div>
 
@@ -24,21 +24,25 @@
 
 | 💼 **Hire a problem-solver** | 🔧 **Get a practical tech fix** | 🚀 **Explore a project** |
 | :--- | :--- | :--- |
-| Junior IT support, product support, technical QA and implementation. | Linux, Termux, Android and authorised connectivity troubleshooting. | Public source, prototypes and real test notes. No fictional downloads. |
-| [**Talk about a role**](mailto:damunozx123@gmail.com?subject=IT%20job%20opportunity) | [**View scoped offers**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/WORK_WITH_ME.md) | [**Open the project shelf**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/PROJECTS.md) |
+| Junior IT support, product support, technical QA and implementation. | Linux, Termux, Android and authorised connectivity troubleshooting. | Source, successful CI runs, captured screenshots, limitations and reproducible fixes. |
+| [**Talk about a role**](mailto:damunozx123@gmail.com?subject=IT%20job%20opportunity) | [**View scoped offers**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/WORK_WITH_ME.md) | [**See proof of work**](WORK_EVIDENCE.md) |
+
+## 📎 Evidence first: projects you can inspect
+
+For employers, training providers and case managers: **[view specific commits, passing tests, APK evidence and realistic routes to income](WORK_EVIDENCE.md)**. This is documented AI-assisted technical work, **not a completed qualification or proof of paid customers**.
 
 ## 🚀 Featured projects
 
 | | What it solves | Available now |
 | --- | --- | --- |
 | **📲 [Ventoy Fetch](https://github.com/damunozx123-debug/ventoy-fetch)** | Download and verify operating-system ISOs from an Android phone using Termux. | **Public Python source + setup** |
-| **📡 Network Intelligence** | A clearer picture of Wi-Fi, latency, packet loss and DNS issues; read-only diagnostics. | **Private pilot · simulated local demo**, [request preview](mailto:damunozx123@gmail.com?subject=Network%20Intelligence%20demo) |
+| **📡 [Net Intel](https://github.com/damunozx123-debug/net-intel-app-v9)** | Consent-based, read-only connectivity diagnostic prototype; offline simulated customer demo and regression suite. | **[Public code](https://github.com/damunozx123-debug/net-intel-app-v9) · [Passing CI](https://github.com/damunozx123-debug/net-intel-app-v9/actions/runs/41731872787)**; no verified paying customers |
 | **🧮 [AI Cost Sensitivity Calculator](https://github.com/damunozx123-debug/ai-certainty-calculator)** | Explore hypothetical AI infrastructure costs without claiming measured savings. | **Public Streamlit source** |
-| **🚗 BMW Forge X** | Android OBD diagnostics and explanations, with automotive coding still under development. | **Private Android prototype** |
-| **🎮 GPU Efficiency Lab** | Offline Android GPU cost and profitability scenarios. | **Private beta, not a public APK** |
-| **🧩 PatternX** | Offline personal reference and knowledge with symbolic claims separated from science. | **Private Android prototype** |
+| **🚗 [Vehicle Forge X](https://github.com/damunozx123-debug/vehicle-forge-x)** | Android OBD diagnostic prototype and read-only simulator; manufacturer-specific coding not validated. | **[Public source](https://github.com/damunozx123-debug/vehicle-forge-x) · [Beta APK](https://github.com/damunozx123-debug/vehicle-forge-x/releases/tag/v0.3.0-beta.3)** (debug signed) |
+| **🎮 [GPU Efficiency Lab](https://github.com/damunozx123-debug/gpu-efficiency-lab-android)** | Android GPU scenario calculator; assumptions, not hardware benchmarks. | **[Public source](https://github.com/damunozx123-debug/gpu-efficiency-lab-android) · [Passing APK build](https://github.com/damunozx123-debug/gpu-efficiency-lab-android/actions/runs/41728525075)** (debug artifact) |
+| **🧩 [PatternX](https://github.com/damunozx123-debug/Patternx)** | Offline Android reference/knowledge app with locally controlled data. | **[Public source](https://github.com/damunozx123-debug/Patternx) · [Passing emulator screenshot](https://github.com/damunozx123-debug/Patternx/actions/runs/41729948322)** (debug prototype) |
 
-[**Evidence, limitations and next milestones →**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/PROJECTS.md)
+[**Reproducible fixes, successful tests and limitations →**](WORK_EVIDENCE.md)
 
 ## 💡 What I'm actually good at
 
@@ -58,7 +62,7 @@ An introductory **NZ$149 remote pilot** is proposed for eligible, owner-authoris
 
 `DAN-OS` • `OSINT Mesh` • `BMW OBD diagnostics` • `Android tooling` • `Linux automation`
 
-Some are experiments, not released products. Real screenshots and tested installation packages will replace preview requests as they become available.
+Some are experiments, not released products. See [verified runs, actual screenshots and known limitations](WORK_EVIDENCE.md). Automated tests do not imply customer deployments or earned revenue.
 
 ---
 
