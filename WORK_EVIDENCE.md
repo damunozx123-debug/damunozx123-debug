@@ -1,7 +1,7 @@
 # Technical work samples and verification links
 **Daniel Munoz | Auckland, New Zealand | Updated 4 November 2026**
 
-[← GitHub profile](README.md) · [Contact me](mailto:damunozx123@gmail.com?subject=IT%20support%20or%20QA%20opportunity)
+[← GitHub profile](README.md) · [Contact me](mailto:danjosephmunoz@gmail.com?subject=IT%20support%20or%20QA%20opportunity)
 
 ## What this page proves
 
@@ -40,4 +40,4 @@ This is evidence of identifying a build-environment failure and verifying a targ
 - Client details, personal finances, passwords and private network data are excluded from this public portfolio.
 
 **Available for:** entry-level technical work, structured training and bounded technical collaboration in Auckland / remote.  
-**Contact:** [damunozx123@gmail.com](mailto:damunozx123@gmail.com?subject=Technical%20work%20sample).
+**Contact:** [danjosephmunoz@gmail.com](mailto:danjosephmunoz@gmail.com?subject=Technical%20work%20sample).
