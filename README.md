@@ -10,11 +10,11 @@
 
 *Curious enough to experiment. Practical enough to check whether it actually works.*
 
-[![Hire Me](https://img.shields.io/badge/%F0%9F%92%BC_HIRE_ME-Junior_IT_%26_Technical_Roles-16a34a?style=for-the-badge)](mailto:damunozx123@gmail.com?subject=IT%20work%20opportunity)
+[![Hire Me](https://img.shields.io/badge/%F0%9F%92%BC_HIRE_ME-Junior_IT_%26_Technical_Roles-16a34a?style=for-the-badge)](mailto:danjosephmunoz@gmail.com?subject=IT%20work%20opportunity)
 [![Book a Fix](https://img.shields.io/badge/%F0%9F%94%A7_GET_TECH_HELP-Troubleshooting-dc3545?style=for-the-badge)](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/WORK_WITH_ME.md)
 [![Try My Tools](https://img.shields.io/badge/%F0%9F%9A%80_TRY_MY_TOOLS-Projects_%26_Source-8b5cf6?style=for-the-badge)](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/PROJECTS.md)
 
-[**Verified work samples (start here)**](WORK_EVIDENCE.md) · [**Services & rates**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/WORK_WITH_ME.md) · [**Project shelf**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/PROJECTS.md) · [**Email me**](mailto:damunozx123@gmail.com?subject=GitHub%20opportunity)
+[**Verified work samples (start here)**](WORK_EVIDENCE.md) · [**Services & rates**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/WORK_WITH_ME.md) · [**Project shelf**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/PROJECTS.md) · [**Email me**](mailto:danjosephmunoz@gmail.com?subject=GitHub%20opportunity)
 
 </div>
 
@@ -25,7 +25,7 @@
 | 💼 **Hire a problem-solver** | 🔧 **Get a practical tech fix** | 🚀 **Explore a project** |
 | :--- | :--- | :--- |
 | Junior IT support, product support, technical QA and implementation. | Linux, Termux, Android and authorised connectivity troubleshooting. | Source, successful CI runs, captured screenshots, limitations and reproducible fixes. |
-| [**Talk about a role**](mailto:damunozx123@gmail.com?subject=IT%20job%20opportunity) | [**View scoped offers**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/WORK_WITH_ME.md) | [**See proof of work**](WORK_EVIDENCE.md) |
+| [**Talk about a role**](mailto:danjosephmunoz@gmail.com?subject=IT%20job%20opportunity) | [**View scoped offers**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/WORK_WITH_ME.md) | [**See proof of work**](WORK_EVIDENCE.md) |
 
 ## 📎 Evidence first: projects you can inspect
 
@@ -56,7 +56,7 @@ I like the odd jobs: configuring Linux on unconventional hardware, making Androi
 
 An introductory **NZ$149 remote pilot** is proposed for eligible, owner-authorised connectivity checks. Deliverables, access, feasibility and price are confirmed before work begins. No penetration testing, automated changes or guaranteed diagnosis.
 
-[**See exactly what's included**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/WORK_WITH_ME.md) · [**Ask about a pilot**](mailto:damunozx123@gmail.com?subject=Network%20Health%20pilot)
+[**See exactly what's included**](https://github.com/damunozx123-debug/ventoy-fetch/blob/master/WORK_WITH_ME.md) · [**Ask about a pilot**](mailto:danjosephmunoz@gmail.com?subject=Network%20Health%20pilot)
 
 ## 🧪 On the workbench
 
@@ -70,7 +70,7 @@ Some are experiments, not released products. See [verified runs, actual screensh
 
 ### Got a role, a tricky bug, or a useful idea?
 
-[![Email Daniel](https://img.shields.io/badge/EMAIL_DANIEL-Let's_solve_something-C52743?style=for-the-badge)](mailto:damunozx123@gmail.com?subject=GitHub%20work%20opportunity)
+[![Email Daniel](https://img.shields.io/badge/EMAIL_DANIEL-Let's_solve_something-C52743?style=for-the-badge)](mailto:danjosephmunoz@gmail.com?subject=GitHub%20work%20opportunity)
 
 ⭐ **Ventoy Fetch helped?** [Star the public repository](https://github.com/damunozx123-debug/ventoy-fetch). It makes the project easier to find.
 
